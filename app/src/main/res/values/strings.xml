@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Statistics</string>
+    <string-array name="operations">
+        <item>Median</item>
+        <item>Mode</item>
+        <item>Mean</item>
+        <item>Maximum</item>
+        <item>Minimum</item>
+        <item>Range</item>
+        <item>Sum</item>
+        <item>Count</item>
+    </string-array>
+</resources>
